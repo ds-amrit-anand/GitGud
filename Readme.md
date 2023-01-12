@@ -1,1 +1,1 @@
-Git Tutorail
+Git Tutorial by Amrit
